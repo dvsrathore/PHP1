@@ -1,3 +1,3 @@
 <?php
-echo "How are you Darling?"
+echo "How are you PHP?"
 ?>
